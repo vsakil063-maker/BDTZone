@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_dark">#050B14</color>
+    <color name="bg_card">#111928</color>
+    <color name="bg_input">#1A2235</color>
+    
+    <!-- Accents -->
+    <color name="neon_green">#C4F000</color>
+    
+    <!-- Text Colors -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#8B95A5</color>
+    
+    <!-- Brand Colors (Deposit) -->
+    <color name="nagad_red">#ED1C24</color>
+    <color name="bkash_pink">#DF146E</color>
+    <color name="binance_yellow">#FCD535</color>
+</resources>

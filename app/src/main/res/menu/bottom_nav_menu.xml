@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/homeFragment" android:title="Home" android:icon="@android:drawable/ic_menu_home" />
-    <item android:id="@+id/tasksFragment" android:title="Tasks" android:icon="@android:drawable/ic_menu_agenda" />
-    <item android:id="@+id/walletFragment" android:title="Wallet" android:icon="@android:drawable/ic_menu_account_list" />
-    <item android:id="@+id/profileFragment" android:title="Profile" android:icon="@android:drawable/ic_menu_myplaces" />
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_deposit"
+        android:title="Deposit" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:title="Profile" />
 </menu>
